@@ -30,10 +30,12 @@ public class Main {
         System.out.println("\n Sorted Employee Details  from employeeList ************\n");
         for(Employee emp: employeeList){
             System.out.println(emp);
+        }
+        for(Employee emp: employeeList){
             jsonOutput.add(converObjectToJson(emp));
         }
 
-
+    
         System.out.println("\n JSON from input file ************\n"+jsonOutput);
 
 
