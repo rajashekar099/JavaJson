@@ -1,0 +1,49 @@
+[{
+
+  "firstName": "Michael",
+
+  "lastName": "Jordon",
+
+  "role": "developer",
+
+  "baseSalary": "1000",
+
+  "bonus": "100",
+
+  "EmployeeId": "2"
+
+},
+
+  {
+
+    "firstName": "John",
+
+    "lastName": "Schmidt",
+
+    "role": "tester",
+
+    "baseSalary": "1000",
+
+    "bonus": "50",
+
+    "EmployeeId": "3"
+
+  },
+
+  {
+
+    "firstName": "David",
+
+    "lastName": "Morgan",
+
+    "role": "manager",
+
+    "baseSalary": "3000",
+
+    "bonus": "200",
+
+    "EmployeeId": "1"
+
+  }
+
+]
